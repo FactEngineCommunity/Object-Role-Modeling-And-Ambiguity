@@ -17,4 +17,5 @@ The following ORM Diagram exposes a syntactic flaw in the graphical component of
 NB The Join Subset Constraint is actually drawn correctly, but the first argument of the first sequence is hidden below the first argument of the second sequence, which has the arrow. The syntax of Object-Role Modeling does not have the ability to disambiguate/resolve the problem, leaving the interpreter with the notion that the diagram is possibly drawn incorrectly. An independed interpreter (under model theory) is able to assign whatever meaning they like to the three-spoke otherwise-Join Subset Constraint, including:
 1. The interpretation that the model is drawn incorrectly;
 2. Some other meaning/interpretation conjured by the interpreter, which may be valid/consistent etc
+
 I.e. The limitations of the graphical ORM notation leads to ambiguity.
