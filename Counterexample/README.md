@@ -13,3 +13,5 @@ The following ORM Diagram exposes a syntactic flaw in the graphical component of
 ...or...
 
 ![Alt text](../Images/CounterexampleVerbalisation2.png?raw=true "Counterexample Verbalisation Possibility Two")
+
+NB The Join Subset Constraint is actually drawn correctly, but the first argument of the first sequence is hidden below the first argument of the second sequence, which has the arrow. The syntax of Object-Role Modeling does not have the abiliity to disambiguate/resolve the problem, leaving the interpreter with the notion that the diagram is possibly drawn incorrectly.
