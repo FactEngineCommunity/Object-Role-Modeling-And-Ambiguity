@@ -1,2 +1,9 @@
 # Object-Role-Modeling-And-Ambiguity
-A place-holder for documentation on the various ways the graphical notation of Object-Role Modeling can be ambiguous
+
+![Alt text](../Images/JoinSubsetConstraint-Counterexample.png?raw=true "Counterexample")
+
+![Alt text](../Images/CounterexampleVerbalisation1.png?raw=true "Counterexample Verbalisation Possibility One")
+
+...or...
+
+![Alt text](../Images/CounterexampleVerbalisation2.png?raw=true "Counterexample Verbalisation Possibility Two")
